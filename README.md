@@ -136,4 +136,7 @@ http get http://localhost/api/contacts/1/phones
 ```
 
 ### Task 1
+
+![image](https://github.com/user-attachments/assets/5f4775b8-d445-4ebc-8586-0bbdda6d91f0)
+
 a) to do insert screenshot.
