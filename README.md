@@ -135,8 +135,19 @@ http get http://localhost/api/contacts/1/phones
 
 ```
 
-### Task 1
+### Task 1 a
 
 ![image](https://github.com/user-attachments/assets/5f4775b8-d445-4ebc-8586-0bbdda6d91f0)
 
-a) to do insert screenshot.
+### Task 1 b
+
+![Screenshot 2024-10-23 213148](https://github.com/user-attachments/assets/cc1473a2-784d-4075-9ec5-ac3f42398068)
+
+### Task 1 c
+
+
+
+### Task 1 d
+
+### Task 1 e
+
